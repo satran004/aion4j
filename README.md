@@ -11,7 +11,9 @@ Goals
 - Help developers to develop with their existing java development tools.
 
 
-1. [**Aion FastVM Docker**](https://github.com/satran004/aion-fastvm-docker) -  Docker container for Aion FastVM / Solidity compiler. Use this to quickly compile your Solidity .sol smart contracts for the Aion Network. It supports cross OS compilation of solidity contracts for Aion. (Status: Ready to use)
+1. [**Aion FastVM Docker**](https://github.com/satran004/aion-fastvm-docker) -  Docker container for Aion FastVM / Solidity compiler. Use this to quickly compile your Solidity .sol smart contracts for the Aion Network. It supports cross OS compilation of solidity contracts for Aion. 
+
+(Status: Ready to use)
 
 2. [**Aion4j docker**](https://github.com/satran004/aion4j-docker) - This docker container provides all the required libraries/tools for development on Aion platform. The idea is to provide a containerized smart contract development environment where developer can both compile and unit test their smart contract without deploying on the actual blockchain. As currently solidity compiler on Aion is only supported on Ubuntu, the dockerized approach will be helpful for non-Ubuntu developers. 
 
