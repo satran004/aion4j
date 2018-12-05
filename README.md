@@ -5,7 +5,7 @@ This project is currently in conceptual stage.
 
 Goals
 ----
-- A set of developer tools and frameworks to help development on Aion Platform. The idea is to leverage on the existing tools (IDE, Frameworks etc.) in java ecosystems. 
+- A set of developer tools and frameworks to help smart contract development on Aion Platform. The idea is to leverage on the existing tools (IDE, Frameworks etc.) in java ecosystems. 
 - Abstract all the complexities of blockchain interaction from a java application and provide a POJO / Interface based programming model.
 - Enable java developers with familiar tools to iterate faster during development with a relatively smaller learning curve. (Through an embedded FastVM runtime and libraries)
 - Help developers to develop with their existing java development tools.
