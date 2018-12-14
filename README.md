@@ -36,7 +36,7 @@ The goal is to support the same programming model to interact with both an embed
 
 The concept is similar to one of the [earlier proposal](https://github.com/satran004/aion-spring-proposal/wiki/Proposal), but much simpler and without any Spring framework dependency. 
 
-**4. Aion4j-maven-plugin :** A maven plugin to do most of the manual steps like
+4. [**Aion4j-maven-plugin**](https://github.com/satran004/aion4j-maven-plugin) A maven plugin to do most of the manual steps like
 
      - Interface code generation from solidity source file
      - Initializing environment by automatically deploying aion libraries to local m2 repository
