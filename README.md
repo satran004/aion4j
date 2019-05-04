@@ -1,10 +1,10 @@
 ***aion4j***
 ---
 
-**Aio4j suite of tools are now maintained under [BloxBean](https://github.com/bloxbean) project.
-Please visit (https://github.com/bloxbean) for details.
+### Aion4j tools are now maintained under [BloxBean](https://github.com/bloxbean) project.
+### Please visit (https://github.com/bloxbean) for details.
 
-This page is no longer maintained.
+#### This page is no longer maintained.
 
 This project is currently in conceptual stage. 
 
